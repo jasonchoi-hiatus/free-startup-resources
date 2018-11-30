@@ -61,7 +61,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Social Locker**](https://wordpress.org/plugins/social-locker/): Ask visitors “to pay” for your content with a tweet, etc.
 - [**Egg Timer**](https://e.ggtimer.com/): Set a time and bookmark it for repeated use.
 - BlankPage: Writing made simple.
-- Wattpad: The world’s largest community for readers and writers.
+- [**Wattpad**](https://wattpad.com): The world’s largest community for readers and writers.
 - Known: A single site for the content you create.
 - Wattpad: The world’s largest community for readers and writers.
 - Dbook: Structured and collaborative writing for large documents.
